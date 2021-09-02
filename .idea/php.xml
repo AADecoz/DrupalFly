@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$USER_HOME$/Drupal9.2.5/drupal-9.2.5/core" />
+      <path value="$USER_HOME$/Drupal9.2.5/drupal-9.2.5/modules" />
+      <path value="$USER_HOME$/Drupal9.2.5/drupal-9.2.5/vendor" />
+    </include_path>
+  </component>
+</project>
